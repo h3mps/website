@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Economics at the University of Toronto and I am on the 2023-2024 job market. My research interests include urban, public and environmental economics and the intersection between land use and housing markets.
+bio: I am a PhD Candidate in Economics at the University of Toronto and I am on the 2023-2024 job market. My research interests include public, urban and labour economics with my job market paper studying the impact of Greenbelt policies and land use regulation on housing markets.
 
 interests:
 - Public Economics
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am a PhD Candidate in Economics at the University of Toronto and I am on the 2023-2024 job market. My research interests include urban, public and environmental economics and the intersection between sustainable land use and housing markets. 
+Welcome! I am a PhD Candidate in Economics at the University of Toronto and I am on the 2023-2024 job market. My research interests include public, urban and labour economics with my job market paper studying the impact of Greenbelt policies and land use regulation on housing markets.

@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Draft to be Uploaded Soon"
+publication: "Job Market Paper"
 publication_short: ""
 
 abstract: Greenbelts are a common policy tool used to protect natural spaces from urban sprawl.  With rising housing costs in many metropolitan areas, questions have been raised about the impact of Greenbelts on housing markets. Despite the intense policy debate, there is little empirical evidence on how Greenbelts affect housing supply and prices across a metropolitan region. In this paper, I contribute a new approach to estimate the impact of Greenbelt policies on housing market outcomes and use it to evaluate the introduction of the world's largest contiguous Greenbelt, which occurred in Toronto in the early-2000s. Using rich project-level data on housing developments, I first show that the Greenbelt did have an impact on housing development patterns, where restricted, developable census tracts saw less housing built relative to unrestricted tracts. Then, to quantify the effects across the metropolitan area, I build and estimate a model of housing supply and demand with heterogeneity at the census tract level. Using the model, I simulate the counterfactual scenario in which no Greenbelt was implemented, finding that the Greenbelt led to a reduction in housing supply of almost 10,000 units and price increases of 4.1% for houses and 6.1% for condominiums in 2010; this corresponds to an increase in condo rent of $675 a year. Finally, I show that had the Greenbelt been paired with a small relaxation of zoning regulations, the effects of the Greenbelt would be minimized, suggesting a viable alternative to developing Greenbelts in the face of rising housing prices.
@@ -29,7 +29,7 @@ featured: false
 
 links:
 
-url_pdf: ''
+url_pdf: 'files/Hempel_JMP.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

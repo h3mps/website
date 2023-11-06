@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
-url_pdf: files/syp_june_2022.pdf
+url_pdf: files/Hempel_Canada_Wealth_SYP.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
