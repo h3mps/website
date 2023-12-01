@@ -1,5 +1,5 @@
 ---
-title: "The Impact of Greenbelts on Housing Markets: Evidence from Toronto (Job Market Paper)"
+title: "The Impact of Greenbelts on Housing Markets: Evidence from Toronto"
 authors:
 - admin
 date: "2023-11-20T00:00:00Z"
@@ -12,7 +12,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

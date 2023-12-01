@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francis Guiton | Alexander Hempel</title>
+    <link>/author/francis-guiton/</link>
+      <atom:link href="/author/francis-guiton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francis Guiton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue32dbd8d7fd7f09743acf85277cf2de7_88747_512x512_fill_lanczos_center_3.png</url>
+      <title>Francis Guiton</title>
+      <link>/author/francis-guiton/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Developer Decision-Making</title>
+      <link>/publication/hempel_dynamic_developers/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hempel_dynamic_developers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

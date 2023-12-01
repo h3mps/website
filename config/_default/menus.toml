@@ -3,10 +3,10 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "CV"
-  url = "files/Hempel_CV.pdf"
-  weight = 10
+# [[main]]
+#   name = "CV"
+#   url = "files/Hempel_CV.pdf"
+#   weight = 10
 
 # [[main]]
 #   name = "Publications"
@@ -14,23 +14,33 @@
 #   weight = 20
 
 [[main]]
-    name = "Working papers"
-    url = "#working-papers"
-    weight = 30
+    name = "Research"
+    url = "#job-market-paper"
+    weight = 20
+
+# [[main]]
+#     name = "Working Papers"
+#     url = "#working-papers"
+#     weight = 30
+    
+# [[main]]
+#    name = "Works in Progress"
+#    url = "#works-in-progress"
+#    weight = 40
 
 # [[main]]
 #    name = "Teaching"
 #    url = "#teaching"
 #    weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 50
+# [[main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-    name = "CV"
-    url = "files/Hempel_CV.pdf"
-    weight = 70
+     name = "CV"
+     url = "files/Hempel_CV.pdf"
+     weight = 70
