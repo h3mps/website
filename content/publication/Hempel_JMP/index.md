@@ -1,8 +1,8 @@
 ---
-title: "The Impact of Greenbelts on Housing Markets: Evidence from Toronto"
+title: "Tightening the Belt: The Impact of Greenbelts on Housing Affordability"
 authors:
 - admin
-date: "2023-11-20T00:00:00Z"
+date: "2024-08-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: Greenbelts are a widespread policy tool used to protect natural spaces from urban sprawl. With rising housing costs in many metropolitan areas, numerous questions have been raised about the impact of greenbelts on housing markets. Yet despite the intense policy debate, there is little empirical evidence to assess how greenbelts affect housing supply and prices across a metropolitan region. In this paper, I set out a new approach to estimate the impact of greenbelt policies on housing market outcomes and use it to evaluate the introduction of the world's largest contiguous greenbelt, which formed a protected zone around Toronto in the early 2000s. Using rich project-level data on housing developments, I first show that the Ontario Greenbelt affected housing development patterns, where restricted, developable census tracts saw less housing built relative to unrestricted tracts. Next, to quantify the effects across the metropolitan area, I build an estimable model of housing supply and demand with heterogeneous supply elasticities at the census tract level. I estimate the model using instrumental variable approaches including a novel heritage designations instrument. Using the estimated model, I simulate the scenario in which no Greenbelt was implemented, finding that the Greenbelt led to an average increase in housing costs of 2.25%; this corresponds to an increase in housing rent of around C$550 a year. In addition, I show that had the Greenbelt been paired with a small relaxation of zoning regulations within the city, these negative consequences from the Greenbelt would disappear, suggesting a viable alternative to developing greenbelts in the face of rising housing prices.
+abstract: Greenbelts are a widespread policy tool used to protect natural spaces from urban sprawl. With rising housing costs in many metropolitan areas, numerous questions have been raised about the impact of greenbelts on housing markets. In this paper, I evaluate the impact that the introduction of the world's largest contiguous greenbelt, which was formed around Toronto in the early-2000s, had on housing prices across the region. To capture the key dynamics of a greenbelt, I develop an estimable model of the housing market with heterogeneous supply elasticities and a nested logit demand system. Using rich transaction and project-level data on housing prices and developments from 2000-2010, I estimate housing supply and demand curves separately, where I address the endogeneity of housing prices with instrumental variables. Using the estimated model, I find that the Greenbelt led to an average increase in housing costs of 2.9% by 2010. Although non-trivial (C$600 a year in rent), this increase accounts for only 4% of the increase in prices during this period, suggesting that the Greenbelt does not explain much of the deterioration in housing affordability. Skyrocketing housing costs can instead be explained by the fact that strong housing demand within the urban footprint is met with highly inelastic housing supply.
 
 # Summary. An optional shortened abstract.
 summary: ""
