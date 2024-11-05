@@ -12,13 +12,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Greenbelts are a widespread policy tool used to protect natural spaces from urban sprawl. With rising housing costs in many metropolitan areas, numerous questions have been raised about the impact of greenbelts on housing markets. In this paper, I evaluate the impact that the introduction of the world's largest contiguous greenbelt, which was formed around Toronto in the early-2000s, had on housing prices across the region. To capture the key dynamics of a greenbelt, I develop an estimable model of the housing market with heterogeneous supply elasticities and a nested logit demand system. Using rich transaction and project-level data on housing prices and developments from 2000-2010, I estimate housing supply and demand curves separately, where I address the endogeneity of housing prices with instrumental variables. Using the estimated model, I find that the Greenbelt led to an average increase in housing costs of 2.9% by 2010. Although non-trivial (C$600 a year in rent), this increase accounts for only 4% of the increase in prices during this period, suggesting that the Greenbelt does not explain much of the deterioration in housing affordability. Skyrocketing housing costs can instead be explained by the fact that strong housing demand within the urban footprint is met with highly inelastic housing supply.
+abstract: Greenbelts are a widespread policy tool used to protect natural spaces from urban sprawl. With rising housing costs in many metropolitan areas, numerous questions have been raised about the impact of greenbelts on housing markets. In this paper, I evaluate the impact that the introduction of the world's largest contiguous greenbelt, which was formed around Toronto in the early-2000s, had on housing prices across the region. To capture the key dynamics of a greenbelt, I develop an estimable model of the housing market with heterogeneous supply elasticities and a nested logit demand system. Using rich transaction and project-level data on housing prices and developments from 2000-2010, I estimate housing supply and demand curves separately, where I address the endogeneity of housing prices with instrumental variables. Using the estimated model, I find that the Greenbelt led to an average increase in housing costs of 2.9% by 2010. Although non-trivial (C\$600 a year in rent), this increase accounts for only 4% of the increase in prices during this period, suggesting that the Greenbelt does not explain much of the deterioration in housing affordability. Skyrocketing housing costs can instead be explained by the fact that strong housing demand within the urban footprint is met with highly inelastic housing supply.
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
+- name: University of Alberta
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Economics at the University of Toronto and I am on the 2023-2024 job market. My research interests include public, urban and labour economics with my job market paper studying the impact of Greenbelt policies and land use regulation on housing markets.
+bio: I am a Postdoctoral Fellow at the University of Alberta studying urban economics issues that are relevant to policymakers.
 
 interests:
-- Public Economics
 - Urban Economics
+- Public Economics
 - Labour Economics
  
 
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Toronto
-    year: 2024 (Expected)
+    year: 2024
   - course: MA in Economics
     institution:  University of Toronto
     year: 2018  
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:alex.hempel@mail.utoronto.ca".
+  link: '#contact'  # For a direct email link, use "mailto:hempel1@ualberta.ca".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alexhempel6
@@ -73,4 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am a PhD Candidate in Economics at the University of Toronto and I am on the 2023-2024 job market. My research interests include public, urban and labour economics with my job market paper studying the impact of Greenbelt policies and land use regulation on housing markets.
+Welcome to my site!
+
+My research interests are in urban, spatial, public and labour economics. Specifically, I am interested in deepening our understanding of important policies such as land use regulations, immigration and wealth taxes by precisely quantifying their impacts.
+
+I am currently a Postdoctoral Fellow at the University of Alberta in the Department of Resource Economics and Environmental Sociology (REES) and am part of the Bridging Divides U of A team.

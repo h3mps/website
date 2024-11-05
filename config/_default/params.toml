@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = "alberta"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "University of Toronto"
+org_name = "University of Alberta"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Job Market Candidate in Economics at the University of Toronto"
+description = "Postdoctoral Fellow at the University of Alberta"
 
 ############################
 ## Site Features
@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "alex.hempel@mail.utoronto.ca"
+email = "hempel1@ualberta.ca"
 phone = "+1 416-788-7123"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "150 St George St", city = "Toronto", region = "ON", postcode = "M5S 3G7", country = "Canada", country_code = "CA"}
+address = {street = "1102-10046 117 St NW", city = "Edmonton", region = "AB", postcode = "T5K 1X2", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

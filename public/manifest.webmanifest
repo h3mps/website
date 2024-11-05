@@ -2,8 +2,8 @@
   "name": "Alexander Hempel",
   "short_name": "Alexander Hempel",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#007c41",
+  "background_color": "#007c41",
   "icons": [{
     "src": "/images/icon_hue32dbd8d7fd7f09743acf85277cf2de7_88747_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
