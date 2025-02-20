@@ -2,7 +2,7 @@
 title: "New Evidence on Wealth Inequality in Canada"
 authors:
 - admin
-date: "2022-06-07T00:00:00Z"
+date: "2025-02-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Measures of wealth inequality are important indicators, but only exist in a handful of countries. I am the first to estimate the distribution of wealth in Canada on an annual basis from 1990-2018. Using the income capitalization method of Saez & Zucman (2016), I find that while the top 1% wealth share rose from 15.3% in 1990 to 19.7% in 2008, the top 1% share has since fallen to 17.5% in 2018. I compare these results to those in the United States and France and find that Canada has much less wealth inequality compared to the US and is in line with France. Using linear decomposition methods, I show that this gap is driven by greater concentration across every asset class and is not driven by a single asset or a different composition of assets held in each country. I investigate this further using the concept of `synthetic savings' to decompose whether the fluctuations in the top 1% share were driven by changes in asset prices or changes to savings behaviour. I find evidence that changes in savings behaviour by the top 1% were more influential in driving the rise and then stagnation of the top 1% share than capital gains. Indications that the decline in the top 1% share is driven by reduced savings behaviour could have important implications for investment, future economic growth and policy.
+abstract: Measures of wealth inequality are important indicators, but only exist in a handful of countries. This paper is the first to estimate the distribution of wealth in Canada on a regular basis from 1990-2018. Using the income capitalization method of Saez & Zucman (2016), I find that while the top 1% wealth share rose from 15.3% in 1990 to 19.7% in 2008, it fell back to 17.5% by 2018. These results suggest that Canada has much less wealth inequality compared to the US and is even slightly more equal than France. Using linear decomposition methods, I show that this gap with the US is driven by greater concentration across every asset class and is not driven by a single asset or a different composition of assets held in each country. Then, using synthetic savings decompositions, I show that most of the variation in the top 1% wealth share can be explained by the collapse in the top 1%'s savings rate, which, while positive from an inequality perspective, could have important ramifications for future economic growth in Canada. 
 
 # Summary. An optional shortened abstract.
 summary: ""
